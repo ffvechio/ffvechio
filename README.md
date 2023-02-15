@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Felipe Bessa ou só Bessa!! 👋
 
-E aí, pessoal! Eu sou o Felipe Bessa e trabalho com automação de teste desde 2010. Acredito que a tecnologia pode ser uma grande aliada para a solução de problemas e que, com a automação de testes, podemos garantir a qualidade de tudo ou quase tudo o que é desenvolvido no mundo da TI.
+E aí, pessoal! Eu sou o Bessa e trabalho com automação de teste desde 2010. Acredito que a tecnologia pode ser uma grande aliada para a solução de problemas e que, com a automação de testes, podemos garantir a qualidade de tudo ou quase tudo o que é desenvolvido no mundo da TI.
 
 Neste perfil do GitHub, você encontrará alguns dos meus projetos e códigos mais recentes, sempre voltados para a automação de testes. Além disso, aqui você poderá encontrar alguns repositórios de estudos e experimentos que fiz ao longo da minha carreira.
 
